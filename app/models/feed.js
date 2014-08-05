@@ -9,7 +9,7 @@ exports.definition = {
     },
     adapter: {
       type: "json",
-      url: 'http://www.tidev.io/feed/json'
+      url: 'http://blog.foolprooflabs.com/feed/json'
     }
   }
 };
